@@ -1,5 +1,6 @@
 **favicon setting**
 
+```
 <link rel="apple-touch-icon" sizes="57x57" href="/static/img/common/favicon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/static/img/common/favicon/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/static/img/common/favicon/apple-icon-72x72.png">
@@ -22,3 +23,4 @@
 <meta name="msapplication-TileImage" content="/static/img/common/favicon/apple-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 <link rel="icon" href="/static/img/common/favicon/favicon-32x32.png" type="image/x-icon">
+```
