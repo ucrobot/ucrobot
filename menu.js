@@ -175,11 +175,11 @@ document.write(`
         <ul class="sub">
           <li><a href="javascript:link.indexRobotkitP()">PreK ~ K</a></li>
 					<li><a href="javascript:link.indexRobotkitE()">Elementary</a></li>
-						<ul class="sub2>
-							<li>- <a href="javascript:link.indexRobotkitE()">LABBOT</a></li>
-							<li>- <a href="javascript:link.indexRobotkitE()">EQ-ROBO</a></li>
-							<li>- <a href="javascript:link.indexRobotkitE()">EQ-DUINO</a></li>
-						</ul
+						<ul class="sub2">
+							<li>&nbsp;&nbsp;- <a href="javascript:link.indexRobotkitE()">LABBOT</a></li>
+							<li>&nbsp;&nbsp;- <a href="javascript:link.indexRobotkitE()">EQ-ROBO</a></li>
+							<li>&nbsp;&nbsp;- <a href="javascript:link.indexRobotkitE()">EQ-DUINO</a></li>
+						</ul>
           <li><a href="javascript:link.indexRobotkitM()">Middle School</a></li>
           <li><a href="javascript:link.indexRobotkitH()">High School</a></li>
         </ul>
