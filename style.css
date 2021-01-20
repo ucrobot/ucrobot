@@ -88,3 +88,16 @@ ul {
 #menu .main .sub li:hover {
 	background: #7a297b;
 }
+#menu .main .sub .sub2 {
+	position: absolute;
+	top: 50px;
+	left: 0;
+	width: 100%;
+	display: none;
+}
+#menu .main .sub .sub2 li {
+	background: #daaadb;
+}
+#menu .main .sub .sub2 li:hover {
+	background: #7a297b;
+}

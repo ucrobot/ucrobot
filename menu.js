@@ -130,6 +130,11 @@ class linkConnect {
 		var varIndex = varHome + 'robotkit/high/robotkit-h.html';
 		location.href = varIndex;
 	}
+	indexRobotkitLabbot() {
+		var varHome = new String('https://ucrobot.github.io/');
+		var varIndex = varHome + 'labbot/rabbot.html.html';
+		location.href = varIndex;
+	}
 }
 let link = new linkConnect();
 
@@ -176,9 +181,9 @@ document.write(`
           <li><a href="javascript:link.indexRobotkitP()">PreK ~ K</a></li>
 					<li><a href="javascript:link.indexRobotkitE()">Elementary</a></li>
 						<ul class="sub2">
-							<li>&nbsp;&nbsp;- <a href="javascript:link.indexRobotkitE()">LABBOT</a></li>
-							<li>&nbsp;&nbsp;- <a href="javascript:link.indexRobotkitE()">EQ-ROBO</a></li>
-							<li>&nbsp;&nbsp;- <a href="javascript:link.indexRobotkitE()">EQ-DUINO</a></li>
+							<li>&nbsp;&nbsp;- <a href="javascript:link.indexRobotkitLabbot()">LABBOT</a></li>
+							<li>&nbsp;&nbsp;- <a href="#">EQ-ROBO</a></li>
+							<li>&nbsp;&nbsp;- <a href="#">EQ-DUINO</a></li>
 						</ul>
           <li><a href="javascript:link.indexRobotkitM()">Middle School</a></li>
           <li><a href="javascript:link.indexRobotkitH()">High School</a></li>
