@@ -9,7 +9,7 @@
 	/* flex-basis: 1000px; */
 	flex-direction: column;
 	/* align-items: center; */
-	border: 1px solid gray;
+	/* border: 1px solid gray; */
 }
 header {
 	text-align: center;
@@ -25,11 +25,10 @@ footer {
 	text-align: center;
 }
 .content {
-	/* border: 1px solid blue; */
+	border: 1px solid red;
 	display: flex;
 	flex-direction: row;
-	flex-basis: 1000px;
-	/* align-items: center; */
+	/* flex-basis: 1000px; */
 	justify-content: center;
 	/* width: 800px; */
 }

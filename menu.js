@@ -174,7 +174,12 @@ document.write(`
       <li><a href="javascript:link.indexRobotkit()">Robot kit</a>
         <ul class="sub">
           <li><a href="javascript:link.indexRobotkitP()">PreK ~ K</a></li>
-          <li><a href="javascript:link.indexRobotkitE()">Elementary</a></li>
+					<li><a href="javascript:link.indexRobotkitE()">Elementary</a></li>
+						<ul class="sub2>
+							<li>- <a href="javascript:link.indexRobotkitE()">LABBOT</a></li>
+							<li>- <a href="javascript:link.indexRobotkitE()">EQ-ROBO</a></li>
+							<li>- <a href="javascript:link.indexRobotkitE()">EQ-DUINO</a></li>
+						</ul
           <li><a href="javascript:link.indexRobotkitM()">Middle School</a></li>
           <li><a href="javascript:link.indexRobotkitH()">High School</a></li>
         </ul>
