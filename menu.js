@@ -140,8 +140,8 @@ let link = new linkConnect();
 
 document.write(`
 <header>
-  <h1><a href="javascript:link.index()">Robot Study</a></h1>
-  <p>Roboting Everyone</p>
+  <h1><a href="javascript:link.index()" style="background-color: #4d6c8b; color:white;">Robot Study</a></h1>
+  <p style="padding-bottom: 1rem;">Roboting Everyone</p>
   <div id="menu">
     <ul class="main">
       <li><a href="javascript:link.indexRobotics()">Robotics</a>
@@ -180,11 +180,9 @@ document.write(`
         <ul class="sub">
           <li><a href="javascript:link.indexRobotkitP()">PreK ~ K</a></li>
 					<li><a href="javascript:link.indexRobotkitE()">Elementary</a></li>
-						<ul class="sub2">
-							<li>&nbsp;&nbsp;- <a href="javascript:link.indexRobotkitLabbot()">LABBOT</a></li>
-							<li>&nbsp;&nbsp;- <a href="#">EQ-ROBO</a></li>
-							<li>&nbsp;&nbsp;- <a href="#">EQ-DUINO</a></li>
-						</ul>
+					<li><a href="#">&nbsp;&nbsp;- LABBOT</a></li>
+					<li><a href="#">&nbsp;&nbsp;- EQ-ROBO</a></li>
+					<li><a href="#">&nbsp;&nbsp;- EQ-DUINO</a></li>
           <li><a href="javascript:link.indexRobotkitM()">Middle School</a></li>
           <li><a href="javascript:link.indexRobotkitH()">High School</a></li>
         </ul>
