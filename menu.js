@@ -140,9 +140,10 @@ let link = new linkConnect();
 
 document.write(`
 <header>
-	<h1><a href="javascript:link.index()" style="background-color: #4d6c8b; color:white; text-align:center;">
+	<h1><a href="javascript:link.index()" style="background-color: #4d6c8b; color:white; text-align:center;background-color: #4d6c8b;">
 		Robot Study</a></h1>
-  <p style="padding-bottom: 1rem; text-align:center;">Roboting Everyone</p>
+	<p style="padding-bottom: 1rem; text-align:center;background-color: #4d6c8b;">
+		Roboting Everyone</p>
   <div id="menu">
     <ul class="main">
       <li><a href="javascript:link.indexRobotics()">Robotics</a>
