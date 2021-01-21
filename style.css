@@ -95,6 +95,7 @@ ul {
 
 #menu .main > li:hover .sub {
 	display: block;
+	background: #ffffff;
 }
 
 #menu .main > li a {
