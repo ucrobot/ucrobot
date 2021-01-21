@@ -132,7 +132,7 @@ class linkConnect {
 	}
 	indexRobotkitLabbot() {
 		var varHome = new String('https://ucrobot.github.io/');
-		var varIndex = varHome + 'labbot/labbot.html.html';
+		var varIndex = varHome + 'labbot/labbot.html';
 		location.href = varIndex;
 	}
 }
