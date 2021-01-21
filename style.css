@@ -60,6 +60,23 @@ aside {
 	flex-basis: 150px;
 	/* width: 150px; */
 	flex-shrink: 0;
+	/* padding: 1rem; */
+}
+
+aside {
+	padding: 1rem;
+}
+
+nav > ul > li {
+	padding-left: 1rem;
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+	color: #c5c4c4;
+}
+
+nav > ul > li:hover {
+	color: #fff;
+	background-color: #c5c4c4;
 }
 
 ul {
