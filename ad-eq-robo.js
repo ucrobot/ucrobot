@@ -1,5 +1,5 @@
 document.write(`
-<img src="https://ucrobot.github.io/img/eq1-3-p10_Avoider.jpg" width=150px" />
+<img src="https://ucrobot.github.io/img/eq-robo-ed.jpeg" width=150px" />
 <p style="padding-top:0.5rem; padding-bottom:0.5rem; background-color:#808b4d;">
   &nbsp;&nbsp;Order to:
 </p>
